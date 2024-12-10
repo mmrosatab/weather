@@ -11,4 +11,4 @@ npm run dev
 
 ## Link
 
-https://weather.vercel.app/
+https://weather-kappa-kohl.vercel.app/
